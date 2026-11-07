@@ -20,7 +20,7 @@ jobs:
         uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1
         with:
           repository: 777genius/review-router
-          ref: c295717398d54d64ed59d6bb118ac72f3c4a8b3b
+          ref: 5e4c981c26f7bfad6efc939376eb8c827be27678
           path: .reviewrouter-runtime
           persist-credentials: false
       - name: Setup Node.js
